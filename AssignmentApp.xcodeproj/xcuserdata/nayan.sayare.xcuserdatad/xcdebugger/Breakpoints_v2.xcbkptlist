@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D6549199-94E8-44B6-AFD8-70CF29EAEE91"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60290ED2-7C33-4843-AC17-9B3135994E57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60290ED2-7C33-4843-AC17-9B3135994E57 - 65bd17ac5c07d2b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.ViewController.testClosure() -&gt; ()"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "60290ED2-7C33-4843-AC17-9B3135994E57 - 7e2662c46c536000"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "60290ED2-7C33-4843-AC17-9B3135994E57 - 7e2662c46c5360c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82098336-8246-46AC-AD76-98DE0A35B5A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "310"
+            endingLineNumber = "310"
+            landmarkName = "lengthOfLongestSubstring(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "82098336-8246-46AC-AD76-98DE0A35B5A9 - 8fee786412a20887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.lengthOfLongestSubstring(Swift.String) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "310"
+                  endingLineNumber = "310"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+               <Location
+                  uuid = "82098336-8246-46AC-AD76-98DE0A35B5A9 - 8fee786412a20887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.lengthOfLongestSubstring(Swift.String) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "310"
+                  endingLineNumber = "310"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "82098336-8246-46AC-AD76-98DE0A35B5A9 - 8fee786412a20887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.lengthOfLongestSubstring(Swift.String) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "310"
+                  endingLineNumber = "310"
+                  offsetFromSymbolStart = "676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE352F95-3665-4F6C-B7EF-0D32F4CF95EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "350"
+            endingLineNumber = "350"
+            landmarkName = "productExceptSelf(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DB1A3E3-3F32-4014-B5DB-651DAB0867AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "361"
+            endingLineNumber = "361"
+            landmarkName = "hammingWeight(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DB1A3E3-3F32-4014-B5DB-651DAB0867AA - f912b91ec6683b7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.hammingWeight(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "361"
+                  endingLineNumber = "361"
+                  offsetFromSymbolStart = "972">
+               </Location>
+               <Location
+                  uuid = "4DB1A3E3-3F32-4014-B5DB-651DAB0867AA - f912b91ec6683b7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.hammingWeight(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "361"
+                  endingLineNumber = "361"
+                  offsetFromSymbolStart = "440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C271C71-C451-4C2A-9298-C664E9597864"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "366"
+            endingLineNumber = "366"
+            landmarkName = "hammingWeight(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C271C71-C451-4C2A-9298-C664E9597864 - 60726fa08dab7bd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.threeSum(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "366"
+                  endingLineNumber = "366"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "8C271C71-C451-4C2A-9298-C664E9597864 - f912b91ec668381a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.hammingWeight(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "366"
+                  endingLineNumber = "366"
+                  offsetFromSymbolStart = "2076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58FE4D2B-B890-4108-91F0-0AB4FD7F0D04"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "374"
+            endingLineNumber = "374"
+            landmarkName = "threeSum(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58FE4D2B-B890-4108-91F0-0AB4FD7F0D04 - 60726fa08dab7ae0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.threeSum(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "374"
+                  endingLineNumber = "374"
+                  offsetFromSymbolStart = "788">
+               </Location>
+               <Location
+                  uuid = "58FE4D2B-B890-4108-91F0-0AB4FD7F0D04 - 60726fa08dab7ae0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.threeSum(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "374"
+                  endingLineNumber = "374"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "58FE4D2B-B890-4108-91F0-0AB4FD7F0D04 - 60726fa08dab7ae0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.threeSum(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "374"
+                  endingLineNumber = "374"
+                  offsetFromSymbolStart = "544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72031161-B21C-4C07-9592-37545CF7994C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "405"
+            endingLineNumber = "405"
+            landmarkName = "findMin(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72031161-B21C-4C07-9592-37545CF7994C - ba32d2f8216a044c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.findMin(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "405"
+                  endingLineNumber = "405"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "72031161-B21C-4C07-9592-37545CF7994C - ba32d2f8216a044c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.findMin(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "405"
+                  endingLineNumber = "405"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE768EC0-2476-48DB-9343-6221C25FBED5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "472"
+            endingLineNumber = "472"
+            landmarkName = "missingNumber(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13AAADF2-4744-4B20-B6F1-DC14F674B3C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "485"
+            endingLineNumber = "485"
+            landmarkName = "helper(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13AAADF2-4744-4B20-B6F1-DC14F674B3C2 - d0e7edda942e2b43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.helper(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "485"
+                  endingLineNumber = "485"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "13AAADF2-4744-4B20-B6F1-DC14F674B3C2 - d0e7edda942e2b43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.helper(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "485"
+                  endingLineNumber = "485"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E39190F9-8864-4FFC-809C-A99C44FDA134"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "499"
+            endingLineNumber = "499"
+            landmarkName = "combinationSum4(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94C69A09-36F8-4FFF-A368-DED5C456A7CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "526"
+            endingLineNumber = "526"
+            landmarkName = "plusOne(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "94C69A09-36F8-4FFF-A368-DED5C456A7CF - ee5ae2ee51bdace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.plusOne(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "449"
+                  endingLineNumber = "449"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "94C69A09-36F8-4FFF-A368-DED5C456A7CF - ee5ae2ee51bdace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.plusOne(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "449"
+                  endingLineNumber = "449"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "94C69A09-36F8-4FFF-A368-DED5C456A7CF - ee5ae2ee51bdace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.plusOne(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "449"
+                  endingLineNumber = "449"
+                  offsetFromSymbolStart = "752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62C9AD88-4DD2-4C9A-90E2-76BAB687B6F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "527"
+            endingLineNumber = "527"
+            landmarkName = "plusOne(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "62C9AD88-4DD2-4C9A-90E2-76BAB687B6F0 - ee5ae2ee51bdb0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.plusOne(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "451"
+                  endingLineNumber = "451"
+                  offsetFromSymbolStart = "760">
+               </Location>
+               <Location
+                  uuid = "62C9AD88-4DD2-4C9A-90E2-76BAB687B6F0 - ee5ae2ee51bdaef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.plusOne(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "450"
+                  endingLineNumber = "450"
+                  offsetFromSymbolStart = "776">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5F830EC-E716-452C-9F40-56E8DF6BAE7A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "538"
+            endingLineNumber = "538"
+            landmarkName = "plusOne(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5F830EC-E716-452C-9F40-56E8DF6BAE7A - ee5ae2ee51b2e57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.plusOne(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "538"
+                  endingLineNumber = "538"
+                  offsetFromSymbolStart = "1368">
+               </Location>
+               <Location
+                  uuid = "B5F830EC-E716-452C-9F40-56E8DF6BAE7A - ee5ae2ee51b2e57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.plusOne(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "538"
+                  endingLineNumber = "538"
+                  offsetFromSymbolStart = "852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE6581F2-EFF7-467C-8DAA-E15206215680"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "590"
+            endingLineNumber = "590"
+            landmarkName = "longestCommonSubsequence(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE6581F2-EFF7-467C-8DAA-E15206215680 - b4c6339cd7c1b8ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.longestCommonSubsequence(Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "590"
+                  endingLineNumber = "590"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "BE6581F2-EFF7-467C-8DAA-E15206215680 - b4c6339cd7c1b8ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.longestCommonSubsequence(Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "590"
+                  endingLineNumber = "590"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A87B4692-5FB4-42C9-86F6-BA4D834D1F13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "597"
+            endingLineNumber = "597"
+            landmarkName = "longestCommonSubsequence(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A87B4692-5FB4-42C9-86F6-BA4D834D1F13 - b4c6339cd7c1b9e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.longestCommonSubsequence(Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "597"
+                  endingLineNumber = "597"
+                  offsetFromSymbolStart = "1368">
+               </Location>
+               <Location
+                  uuid = "A87B4692-5FB4-42C9-86F6-BA4D834D1F13 - b4c6339cd7c1b9e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.longestCommonSubsequence(Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "597"
+                  endingLineNumber = "597"
+                  offsetFromSymbolStart = "560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3B70FA2-30B6-4B05-9904-5439739C083B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "613"
+            endingLineNumber = "613"
+            landmarkName = "longestPalindrome(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3B70FA2-30B6-4B05-9904-5439739C083B - b1ea92016a9a913"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "613"
+                  endingLineNumber = "613"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "A3B70FA2-30B6-4B05-9904-5439739C083B - b1ea92016a9a913"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "613"
+                  endingLineNumber = "613"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD792BDD-23A6-497F-BC17-A89A99AB1535"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "619"
+            endingLineNumber = "619"
+            landmarkName = "longestPalindrome(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD792BDD-23A6-497F-BC17-A89A99AB1535 - b1ea92016a9aa5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "619"
+                  endingLineNumber = "619"
+                  offsetFromSymbolStart = "1820">
+               </Location>
+               <Location
+                  uuid = "CD792BDD-23A6-497F-BC17-A89A99AB1535 - b1ea92016a9aa5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "619"
+                  endingLineNumber = "619"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "CD792BDD-23A6-497F-BC17-A89A99AB1535 - b1ea92016a9aa5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.Solution.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "619"
+                  endingLineNumber = "619"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "957EE311-C774-4F41-90F5-EDB41DADD9A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "News"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBEE5541-84F1-4E1F-B375-1E76CCE846E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/Request.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchNews(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A858E368-B5BC-499F-A1F4-3EA73730BC42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/NewsListVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(with:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C1C594C-8064-4963-ABE7-9F90261EF24F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/NewsListVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "setUpDataSource()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE5B146F-1B43-49A0-9C8E-4688EA195932"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/NewsContainerCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "configureCell(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE5B146F-1B43-49A0-9C8E-4688EA195932 - bc61924702272c39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.NewsContainerCell.configureCell(with: AssignmentApp.NewsContainerCellModel) -&gt; ()"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/NewsContainerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "AE5B146F-1B43-49A0-9C8E-4688EA195932 - bc61924702272c39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.NewsContainerCell.configureCell(with: AssignmentApp.NewsContainerCellModel) -&gt; ()"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/NewsContainerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "AE5B146F-1B43-49A0-9C8E-4688EA195932 - bc61924702272c39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.NewsContainerCell.configureCell(with: AssignmentApp.NewsContainerCellModel) -&gt; ()"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/NewsContainerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1A40BDD-81A3-49E0-8EA3-95213926B2D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/NewsContinentCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "configureCell(with:delegate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41D3EAA5-5DCE-4AF6-9FF7-67E34E13E36A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentApp/NewsContainerCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "setLabel(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41D3EAA5-5DCE-4AF6-9FF7-67E34E13E36A - b903ca6d6cb56048"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.NewsContainerCell.setLabel(with: AssignmentApp.NewsContainerCellModel) -&gt; ()"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/NewsContainerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "41D3EAA5-5DCE-4AF6-9FF7-67E34E13E36A - b903ca6d6cb56048"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentApp.NewsContainerCell.setLabel(with: AssignmentApp.NewsContainerCellModel) -&gt; ()"
+                  moduleName = "AssignmentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nayan.sayare/Downloads/Documents/Projects/AssignmentApp/AssignmentApp/NewsContainerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

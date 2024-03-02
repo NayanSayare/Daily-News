@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="proximanova-semibold.otf">
+            <string>ProximaNova-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="NewsContinentCell" customModule="AssignmentApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="OPv-Mz-ugi">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bLu-h1-dkE" userLabel="View1">
+                                <rect key="frame" x="0.0" y="0.0" width="106.5" height="44"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ivx-HD-N7i" userLabel="Label1">
+                                        <rect key="frame" x="4" y="4" width="98.5" height="36"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" red="0.13333333333333333" green="0.13333333333333333" blue="0.13333333333333333" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wEC-q9-qPF">
+                                        <rect key="frame" x="0.0" y="0.0" width="106.5" height="44"/>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <connections>
+                                            <action selector="didTapToSelectAnotherSection:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="MM9-Lb-xKT"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="ivx-HD-N7i" secondAttribute="bottom" constant="4" id="23m-fZ-q3s"/>
+                                    <constraint firstAttribute="bottom" secondItem="wEC-q9-qPF" secondAttribute="bottom" id="3zV-qQ-ecD"/>
+                                    <constraint firstAttribute="trailing" secondItem="ivx-HD-N7i" secondAttribute="trailing" constant="4" id="GUc-r3-N7u"/>
+                                    <constraint firstItem="ivx-HD-N7i" firstAttribute="top" secondItem="bLu-h1-dkE" secondAttribute="top" constant="4" id="Una-KN-1Ge"/>
+                                    <constraint firstAttribute="trailing" secondItem="wEC-q9-qPF" secondAttribute="trailing" id="arI-Zy-ZAl"/>
+                                    <constraint firstItem="ivx-HD-N7i" firstAttribute="leading" secondItem="bLu-h1-dkE" secondAttribute="leading" constant="4" id="nOE-Wo-WXX"/>
+                                    <constraint firstItem="wEC-q9-qPF" firstAttribute="leading" secondItem="bLu-h1-dkE" secondAttribute="leading" id="nrg-WR-93D"/>
+                                    <constraint firstItem="wEC-q9-qPF" firstAttribute="top" secondItem="bLu-h1-dkE" secondAttribute="top" id="uuU-GO-3Um"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="wfs-hz-mEg" userLabel="View2">
+                                <rect key="frame" x="106.5" y="0.0" width="107" height="44"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aQx-Uj-Kp8" userLabel="Label2">
+                                        <rect key="frame" x="4" y="4" width="99" height="36"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" red="0.1333333333" green="0.1333333333" blue="0.1333333333" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Ki-Yl-9ah">
+                                        <rect key="frame" x="0.0" y="0.0" width="107" height="44"/>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <connections>
+                                            <action selector="didTapToSelectAnotherSection:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="8dE-jO-Hwv"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="aQx-Uj-Kp8" secondAttribute="bottom" constant="4" id="241-UF-TBC"/>
+                                    <constraint firstItem="aQx-Uj-Kp8" firstAttribute="leading" secondItem="wfs-hz-mEg" secondAttribute="leading" constant="4" id="3TO-Wm-CCT"/>
+                                    <constraint firstAttribute="bottom" secondItem="3Ki-Yl-9ah" secondAttribute="bottom" id="7Do-64-i9R"/>
+                                    <constraint firstItem="3Ki-Yl-9ah" firstAttribute="leading" secondItem="wfs-hz-mEg" secondAttribute="leading" id="Wjy-wN-nah"/>
+                                    <constraint firstItem="aQx-Uj-Kp8" firstAttribute="top" secondItem="wfs-hz-mEg" secondAttribute="top" constant="4" id="gHq-au-ygF"/>
+                                    <constraint firstAttribute="trailing" secondItem="3Ki-Yl-9ah" secondAttribute="trailing" id="kLa-QQ-tpQ"/>
+                                    <constraint firstItem="3Ki-Yl-9ah" firstAttribute="top" secondItem="wfs-hz-mEg" secondAttribute="top" id="uFE-rz-ThF"/>
+                                    <constraint firstAttribute="trailing" secondItem="aQx-Uj-Kp8" secondAttribute="trailing" constant="4" id="zK1-Yu-Wii"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0Gv-fD-vsq" userLabel="View3">
+                                <rect key="frame" x="213.5" y="0.0" width="106.5" height="44"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="akB-7p-547" userLabel="Label3">
+                                        <rect key="frame" x="4" y="4" width="98.5" height="36"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" red="0.1333333333" green="0.1333333333" blue="0.1333333333" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8bf-pR-EVZ">
+                                        <rect key="frame" x="0.0" y="0.0" width="106.5" height="44"/>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <connections>
+                                            <action selector="didTapToSelectAnotherSection:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="qpR-Jq-V5w"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="8bf-pR-EVZ" secondAttribute="bottom" id="APG-fS-FIQ"/>
+                                    <constraint firstItem="akB-7p-547" firstAttribute="top" secondItem="0Gv-fD-vsq" secondAttribute="top" constant="4" id="R1C-au-oiW"/>
+                                    <constraint firstAttribute="trailing" secondItem="8bf-pR-EVZ" secondAttribute="trailing" id="bdV-kY-FKd"/>
+                                    <constraint firstItem="akB-7p-547" firstAttribute="leading" secondItem="0Gv-fD-vsq" secondAttribute="leading" constant="4" id="h8o-4Q-yyt"/>
+                                    <constraint firstAttribute="trailing" secondItem="akB-7p-547" secondAttribute="trailing" constant="4" id="ma2-2v-XlT"/>
+                                    <constraint firstAttribute="bottom" secondItem="akB-7p-547" secondAttribute="bottom" constant="4" id="mwq-Jf-LZh"/>
+                                    <constraint firstItem="8bf-pR-EVZ" firstAttribute="leading" secondItem="0Gv-fD-vsq" secondAttribute="leading" id="o7A-43-YeA"/>
+                                    <constraint firstItem="8bf-pR-EVZ" firstAttribute="top" secondItem="0Gv-fD-vsq" secondAttribute="top" id="vRQ-aH-1jO"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                    </stackView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="OPv-Mz-ugi" secondAttribute="trailing" id="HMp-M9-rMp"/>
+                    <constraint firstAttribute="bottom" secondItem="OPv-Mz-ugi" secondAttribute="bottom" id="O6B-Gx-vDI"/>
+                    <constraint firstItem="OPv-Mz-ugi" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="Tvq-7W-fDl"/>
+                    <constraint firstItem="OPv-Mz-ugi" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="YM6-pz-zjf"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outletCollection property="viewcontainers" destination="bLu-h1-dkE" collectionClass="NSMutableArray" id="RFa-Lw-s2h"/>
+                <outletCollection property="viewcontainers" destination="wfs-hz-mEg" collectionClass="NSMutableArray" id="Ybd-d1-Ugn"/>
+                <outletCollection property="viewcontainers" destination="0Gv-fD-vsq" collectionClass="NSMutableArray" id="txv-WI-t2a"/>
+                <outletCollection property="lblTitleArr" destination="ivx-HD-N7i" collectionClass="NSMutableArray" id="VFH-Rk-ntG"/>
+                <outletCollection property="lblTitleArr" destination="aQx-Uj-Kp8" collectionClass="NSMutableArray" id="YHr-NT-dnj"/>
+                <outletCollection property="lblTitleArr" destination="akB-7p-547" collectionClass="NSMutableArray" id="xRf-gL-qoM"/>
+            </connections>
+            <point key="canvasLocation" x="139" y="104"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
